@@ -59,7 +59,8 @@ Every design decision supports long-term behavior rather than short-term motivat
 - No people, no dashboards, no text inside visuals
 - Calm purple gradients to create reassurance
 
-![Login Design](./design/login.png)
+![Login Design Desktop](./Images/DeskTop/MacBook%20Pro%2014_%20-%206%20Login.png)
+![Login Design Mobile](./Images/Mobile/iPhone%2013%20mini%20-%205%20Login.png)
 
 ---
 
@@ -71,7 +72,8 @@ Every design decision supports long-term behavior rather than short-term motivat
 - Communicates onboarding and fresh start
 - Designed as a complete register-page visual, not branding art
 
-![Register Design](./design/register.png)
+![Register Design Desktop](./Images/DeskTop/MacBook%20Pro%2014_%20-%208%20Register.png)
+![Register Design Mobile](./Images/Mobile/iPhone%2013%20mini%20-%205%20Register.png)
 
 ---
 
@@ -89,7 +91,8 @@ Every design decision supports long-term behavior rather than short-term motivat
 - Right-side text-based reflection panels
 - Space for thinking, reviewing, and planning
 
-![StudyLoop Design](./design/studyloop.png)
+![StudyLoop Design Desktop](./Images/DeskTop/MacBook%20Pro%2014_%20-%201%20DashBord.png)
+![StudyLoop Design Mobile](./Images/Mobile/iPhone%2013%20mini%20-%201%20STUDENT%20DASHBOARD.png)
 
 ---
 
