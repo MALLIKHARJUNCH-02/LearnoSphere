@@ -245,7 +245,14 @@ Desktop is treated as a **thinking space**, not just a larger screen.
 A short walkthrough explaining UX decisions and visual hierarchy:
 
 [▶️ Watch Desktop Design Walkthrough](https://drive.google.com/file/d/1H9t9Z7CaGODFjPQ06voEEXFyd_NByh4Y/view?usp=sharing)
+
 [▶️ Watch Mobile Design Walkthrough](https://drive.google.com/file/d/14IqzR2amTHkCg9n3NCPFsJ4AMumK8cA-/view?usp=sharing)
+
+
+[Figma Design Desktop](https://www.figma.com/proto/E1jINB5D1LBXmfwWlmm9cq/LearnoSphere-Design?node-id=5-1462&p=f&t=HgxR24mz5kwa3g5g-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A854&starting-point-node-id=5%3A990)
+
+[Figma Design Mobile](https://www.figma.com/proto/E1jINB5D1LBXmfwWlmm9cq/LearnoSphere-Design?node-id=0-2626&p=f&t=2oESIU4P9DKvLPGz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A2227)
+
 
 ---
 
