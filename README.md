@@ -271,5 +271,5 @@ A short walkthrough explaining UX decisions and visual hierarchy:
 **Chilukuri Mallikharjun Reddy**  
 UX-focused Full Stack Developer
 
-- Portfolio: https://your-portfolio-link
-- LinkedIn: https://linkedin.com/in/your-profile
+- Portfolio: https://mallikharjun-reddy-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/mallikharjun-reddy-chilukuri-754b92241
