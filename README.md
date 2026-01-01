@@ -123,15 +123,43 @@ Motivation fades, but habits survive when UX is calm and predictable.
 
 ---
 
+## 👤 User Persona
 ### 2️⃣ Persona
 
-**Name:** Ananya  
-**Age:** 21  
-**Goal:** Build a daily study routine  
-**Pain Points:**
-- Inconsistent discipline
-- Overwhelming apps
-- Guilt from broken streaks
+### Persona: Charan
+
+**Age:** 23  
+**Role:** Self-learner / College graduate preparing for skill growth  
+
+### 🎯 Goals
+- Build a **consistent daily study routine**
+- Track **levels, milestones, and achievements**
+- Feel a clear sense of **progress and growth**, not just effort
+
+### 😣 Pain Points
+- Puts in effort but **cannot clearly see improvement**
+- Existing learning apps focus only on streaks, not progress depth
+- Feels demotivated when achievements are not visible
+- Wants recognition for consistency without pressure or guilt
+
+### 🧠 Motivation
+- Small wins and visible achievements
+- Clear indicators of growth (levels, progress states)
+- Calm feedback instead of harsh reminders
+
+### 📱 Behavior & Preferences
+- Checks progress at the end of the day
+- Prefers **simple, minimal interfaces**
+- Responds better to reflection and insights than notifications
+- Uses desktop for review and planning, mobile for daily check-ins
+
+### 💡 Design Implications
+This persona influenced several UX decisions:
+- Inclusion of **achievement and level indicators**
+- Text-based reflection panels instead of aggressive alerts
+- Clear explanation of streaks to avoid guilt
+- Different experiences for mobile (quick checks) and desktop (reflection)
+
 
 ---
 
@@ -168,7 +196,8 @@ StudyLoop remains central to reinforce habit formation.
 - Focus on hierarchy and spacing
 - Separate wireframes for mobile and desktop
 
-![Wireframes](./design/wireframes.png)
+![Mobile Wireframes](./Images/Mobile/mobile%20Wireframes%20final.png)
+![Desktop Wireframes](./Images/DeskTop/Desktop%20Wireframes%20final.png)
 
 ---
 
