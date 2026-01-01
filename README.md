@@ -244,7 +244,8 @@ Desktop is treated as a **thinking space**, not just a larger screen.
 
 A short walkthrough explaining UX decisions and visual hierarchy:
 
-[▶️ Watch Design Walkthrough](https://your-video-link-here)
+[▶️ Watch Desktop Design Walkthrough](https://drive.google.com/file/d/1H9t9Z7CaGODFjPQ06voEEXFyd_NByh4Y/view?usp=sharing)
+[▶️ Watch Mobile Design Walkthrough](https://drive.google.com/file/d/14IqzR2amTHkCg9n3NCPFsJ4AMumK8cA-/view?usp=sharing)
 
 ---
 
